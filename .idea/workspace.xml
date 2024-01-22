@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d0c2611-4af2-4e69-bd4c-c7bdb9f39e3f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-extract-processor/src/main/scala/org/person/ip/count/parallelizable/CountFilesWIthParallelizable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/data-extract-processor/src/main/scala/org/person/ip/count/parallelizable/CountFilesWIthParallelizable.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705726956846</updated>
-      <workItem from="1705726958184" duration="14914000" />
+      <workItem from="1705726958184" duration="15305000" />
     </task>
     <servers />
   </component>

@@ -15,5 +15,4 @@ object CountFilesWIthParallelizable {
     }.toList
   }
 
-
 }
